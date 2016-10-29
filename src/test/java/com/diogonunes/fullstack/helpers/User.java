@@ -1,10 +1,10 @@
-package helpers;
+package com.diogonunes.fullstack.helpers;
 
 import java.util.Collections;
 import java.util.EnumSet;
 import java.util.Set;
 
-class User {
+public class User {
 
     private enum Permission {
         CHANGE_PASSWORD,

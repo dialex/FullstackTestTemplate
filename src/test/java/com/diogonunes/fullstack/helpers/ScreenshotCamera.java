@@ -1,4 +1,4 @@
-package helpers;
+package com.diogonunes.fullstack.helpers;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;

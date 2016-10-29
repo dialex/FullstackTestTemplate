@@ -1,4 +1,4 @@
-package helpers;
+package com.diogonunes.fullstack.helpers;
 
 public abstract class Constants {
     public static final int FIRST = 0;

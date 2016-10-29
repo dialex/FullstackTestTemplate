@@ -1,4 +1,4 @@
-package helpers;
+package com.diogonunes.fullstack.helpers;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
