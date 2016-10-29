@@ -23,7 +23,7 @@ public class ScreenshotCamera {
 
     public static void capture(WebDriver driver, String screenshotFolder, String screenshotName) {
         if (driver == null) {
-            System.out.println("Can't take a screenshot because web driver is null.");
+            System.out.println("Cannot take a screenshot because web driver is null.");
             return;
         }
         try {
